@@ -1,0 +1,10 @@
+theme = 'hugo-tailwind'
+languageCode = 'en-us'
+baseURL = 'http://localhost'
+title = 'Hugola'
+
+[pagination]
+pagerSize = 2
+
+[params]
+  sticky = true
